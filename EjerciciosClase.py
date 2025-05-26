@@ -10,7 +10,7 @@ class EjerciciosClase:
         self.gato = gato 
         self.a = a
         self.b = b
-        self.Operacion = operacion
+        self.operacion = operacion
         self.Total = Total
         self.Descuento = Descuento
         self.ISV = ISV
